@@ -4,7 +4,7 @@ ARM ARCH LINUX repos
 * /etc/pacman.conf
 ```
 [cloud-source]
-Server = https://github.com/The-Cloud-Source/arch-linux/releases/download/$arch
+Server = https://github.com/the-cloud-source/arch-linux/releases/download/$arch
 ```
 
 * Import and Sign Key
